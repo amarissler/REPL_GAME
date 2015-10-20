@@ -1,3 +1,4 @@
+#Amanda has looked at this
 #----------------------------------------Intro Sequence------------------------------------
 def show_intro
   puts "                               Welcome to Demi Gods!!!!!"
